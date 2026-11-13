@@ -1,6 +1,6 @@
 # wad03-26120300003
 
-- **Nama:** (jamar mulana)
+- **Nama:** jamar mulana
 - **NIM:** 26120300003
 
 Saya pernah menggunakan [clode ai sama chatgpt] untuk coding. 
